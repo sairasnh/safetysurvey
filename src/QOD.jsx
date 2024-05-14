@@ -7,7 +7,7 @@ export default function SafetyQuiz() {
         {
             type: "radiogroup",
             name: "question1",
-            title: "What should you do in case of a fire?",
+            title: "What should you do in case of a fire??",
             choices: [
                 "Run outside immediately", "Hide under a desk", "Call 911", "Follow the evacuation plan"
             ],
