@@ -1,12 +1,12 @@
-import QOD from './QOD.jsx'
+import React from 'react';
+import SafetyQuiz from './QOD.jsx';
 
 function App() {
-
   return (
     <>
-    <QOD />
+      <SafetyQuiz />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
